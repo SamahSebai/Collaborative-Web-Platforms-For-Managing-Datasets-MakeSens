@@ -48,29 +48,26 @@ The main goal is to integrate a data management solution, enabling organized rec
 Makesense.ai provides a promising solution for effective image and data management, paving the way for new AI-based applications.
 
 
-**Game Interface**
+**MakeSense image selection page**
 
-![Game Interface](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/1.png)
+![MakeSense image selection page](https://github.com/SamahSebai/Collaborative-Web-Platforms-For-Managing-Datasets-MakeSens/blob/main/ScreenShot/1-Page%20de%20s%C3%A9lection%20d'images%20MakeSense.png)
 
-**Game Interface**
+**Create labels and start the project**
 
-![Game Interface](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/2.png)
-
-
-**Level 1**
-
-![Level 1](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/3.png)
+![Create labels and start the project](https://github.com/SamahSebai/Collaborative-Web-Platforms-For-Managing-Datasets-MakeSens/blob/main/ScreenShot/2-Cr%C3%A9er%20des%20%C3%A9tiquettes%20et%20d%C3%A9marrer%20le%20projet.png)
 
 
-![Level 1](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/7.png)
+**Choose manual annotation and Annotate image**
+
+![Choose manual annotation and Annotate image](https://github.com/SamahSebai/Collaborative-Web-Platforms-For-Managing-Datasets-MakeSens/blob/main/ScreenShot/3-Choisissez%20l'annotation%20manuelle%20et%20Annoter%20l'image.png)
 
 
-**Level 2**
+**Export label**
 
-![Level 2](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/11.png)
+![Export label](https://github.com/SamahSebai/Collaborative-Web-Platforms-For-Managing-Datasets-MakeSens/blob/main/ScreenShot/4-Etiquette%20d'exportation.png)
+
+**export message**
+
+![export message](https://github.com/SamahSebai/Collaborative-Web-Platforms-For-Managing-Datasets-MakeSens/blob/main/ScreenShot/5-message%20d'exportation.png)
 
 
-![Level 2](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/12.png)
-
-
-![Level 2](https://github.com/SamahSebai/CREZY_RUNNER_GAME_3D/blob/main/screenshot/16.png)
